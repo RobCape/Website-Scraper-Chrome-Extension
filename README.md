@@ -398,6 +398,6 @@ Users are solely responsible for ensuring their use complies with applicable law
 
 ---
 
-**Made with ❤️ by developers, for developers**
+**Made with ❤️ in 🇹🇭, by Rob ... codejitsurob @ X **
 
 Star ⭐ this repo if you find it helpful!
